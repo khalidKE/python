@@ -1,0 +1,7 @@
+input_data = input().split()
+A = int(input_data[0])
+B = int(input_data[1])
+C = int(input_data[2])
+D = int(input_data[3])
+X = (A * B) - (C * D)
+print(f"Difference = {X}")
